@@ -72,8 +72,9 @@ approach must execute in order for the cluster to build.
 	</li>
 </ol>
 </p>
+<h2>The Programs Flow</h2>
 <p>
-	
+	<img src="images/program-flow.png">
 </p>
 </body>
 </html>
