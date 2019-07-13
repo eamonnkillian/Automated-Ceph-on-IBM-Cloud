@@ -1,0 +1,17 @@
+---
+#
+# The set of variables that must exist in the osds.yml file 
+# before running the ceph-ansible playbook. Edit this file 
+# to add more disks depending on the size of your Ceph cluster.
+#
+
+###########
+# GENERAL #
+###########
+
+devices:
+   - /dev/xvdc
+   - /dev/xvde
+
+
+

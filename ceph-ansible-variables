@@ -1,0 +1,15 @@
+---
+#
+# The set of variables that must exist in the all.yml file 
+# before running the ceph-ansible playbook
+#
+
+###########
+# GENERAL #
+###########
+
+ceph_origin: repository
+ceph_repository: community
+ceph_stable_release: nautilus
+monitor_interface: eth0
+radosgw_interface: eth0
