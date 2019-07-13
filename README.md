@@ -1,7 +1,6 @@
 <!DOCTYPE html>
 <html>
 <head>
-	<title>Automating Ceph Cluster Build</title>
 </head>
 <body>
 <h2>Automating Ceph Cluster Build on IBM Cloud</h2>
